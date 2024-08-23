@@ -1,6 +1,6 @@
 # SpeechRepresentations
 
-Scripts to work with the preprocessed intracranial speech representations data that can be downloaded from [here](https://osf.io/qzwsv/), which is used in [this]() research article.
+Scripts to work with the preprocessed intracranial speech representations data that can be downloaded from [here](https://osf.io/qzwsv/), which is used in [this](https://www.biorxiv.org/content/10.1101/2024.08.15.608082v1.full) research article.
 
 ## Dependencies
 The scripts require Python >= 3.6 and the following packages
